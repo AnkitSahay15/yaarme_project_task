@@ -7,18 +7,17 @@ hr{
     color: gray;
 }
 #navbar{
-    height: 100px;
+    height: 90px;
     display: flex;
 }
 #navbar h1{
     margin: auto;
     font-size: 35px;
-    padding-left: 5px;
     font-family: 'Lobster Two',cursive;
 }
 #navbar i{
     padding: 25px;
-    font-size: 30px;
+    font-size: 24px;
 }
 .container{
     height: 570px;
@@ -31,9 +30,9 @@ hr{
 }
 #footer{
     display: flex;
-    height: 100px;
+    height: 90px;
 }
 #footer i{
     padding: 25px;
-    font-size: 30px;
+    font-size: 24px;
     margin: auto;
