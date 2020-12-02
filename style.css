@@ -6,6 +6,10 @@
 hr{
     color: gray;
 }
+i{
+  cursor: pointer;
+}
+
 #navbar{
     height: 82px;
     display: flex;
