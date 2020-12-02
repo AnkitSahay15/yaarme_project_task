@@ -30,7 +30,7 @@ hr{
 }
 #footer{
     display: flex;
-    height: 90px;
+    height: 80px;
 }
 #footer i{
     padding: 25px;
